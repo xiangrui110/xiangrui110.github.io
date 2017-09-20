@@ -4,16 +4,20 @@
 
     
   <url>
-    <loc>grxiang.ml/2017/%E6%B5%8B%E8%AF%952/</loc>
-    <lastmod>2017-09-20T22:57:56.776Z</lastmod>
+    <loc>grxiang.ml/2017/hello-world/</loc>
+    <lastmod>2017-09-20T23:13:25.939Z</lastmod>
     <data>
         <display>
-        <title>测试2</title>
-        <pubTime>2017-09-16T18:20:19.000Z</pubTime>
+        <title>Hello World</title>
+        <pubTime>2017-09-16T17:20:19.000Z</pubTime>
         
+        <tag>hexo</tag>
+         
+        <tag>next主题</tag>
+         
         <tag>技术</tag>
          
-        <tag>测试</tag>
+        <tag>搭建blog</tag>
          
          
            
@@ -26,20 +30,16 @@
 
     
   <url>
-    <loc>grxiang.ml/2017/hello-world/</loc>
-    <lastmod>2017-09-20T22:51:05.711Z</lastmod>
+    <loc>grxiang.ml/2017/%E6%B5%8B%E8%AF%952/</loc>
+    <lastmod>2017-09-20T22:57:56.776Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
+        <title>测试2</title>
         <pubTime>2017-09-16T18:20:19.000Z</pubTime>
         
-        <tag>hexo</tag>
-         
-        <tag>next主题</tag>
-         
         <tag>技术</tag>
          
-        <tag>搭建blog</tag>
+        <tag>测试</tag>
          
          
            
