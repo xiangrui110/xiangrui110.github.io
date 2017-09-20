@@ -5,23 +5,20 @@
     
   <url>
     <loc>grxiang.ml/2017/%E6%B5%8B%E8%AF%952/</loc>
-    <lastmod>2017-09-20T22:51:42.500Z</lastmod>
+    <lastmod>2017-09-20T22:57:56.776Z</lastmod>
     <data>
         <display>
         <title>测试2</title>
         <pubTime>2017-09-16T18:20:19.000Z</pubTime>
         
-        <tag>测试</tag>
-         
         <tag>技术</tag>
+         
+        <tag>测试</tag>
          
          
            
              
-              <breadCrumb title="测试" url="grxiang.ml/categories/%E6%B5%8B%E8%AF%95/"/>
-          
-             
-              <breadCrumb title="技术" url="grxiang.ml/categories/%E6%B5%8B%E8%AF%95/%E6%8A%80%E6%9C%AF/"/>
+              <breadCrumb title="技术" url="grxiang.ml/categories/%E6%8A%80%E6%9C%AF/"/>
           
         </display>
     </data>
@@ -36,11 +33,11 @@
         <title>Hello World</title>
         <pubTime>2017-09-16T18:20:19.000Z</pubTime>
         
-        <tag>技术</tag>
-         
         <tag>hexo</tag>
          
         <tag>next主题</tag>
+         
+        <tag>技术</tag>
          
         <tag>搭建blog</tag>
          
