@@ -4,25 +4,39 @@
 
     
   <url>
-    <loc>grxiang.ml/2017/hello-world/</loc>
-    <lastmod>2017-09-20T23:13:25.939Z</lastmod>
+    <loc>grxiang.ml/2017/%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7%EF%BC%8C%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88%EF%BC%9F/</loc>
+    <lastmod>2017-09-26T09:09:21.208Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
-        <pubTime>2017-09-16T17:20:19.000Z</pubTime>
+        <title>中国的中产阶级，在想什么？</title>
+        <pubTime>2017-09-26T09:01:37.000Z</pubTime>
         
-        <tag>hexo</tag>
-         
-        <tag>next主题</tag>
-         
-        <tag>技术</tag>
-         
-        <tag>搭建blog</tag>
+        <tag>中产阶级</tag>
          
          
            
              
-              <breadCrumb title="技术" url="grxiang.ml/categories/%E6%8A%80%E6%9C%AF/"/>
+              <breadCrumb title="经济" url="grxiang.ml/categories/%E7%BB%8F%E6%B5%8E/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>grxiang.ml/2017/%E4%B8%AD%E5%9B%BD%E5%87%BA%E8%B7%AF%EF%BC%8C%E4%BB%8E%E8%B5%84%E6%BA%90%E7%BB%8F%E6%B5%8E%E5%90%91%E6%8A%80%E6%9C%AF%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B/</loc>
+    <lastmod>2017-09-26T08:59:51.741Z</lastmod>
+    <data>
+        <display>
+        <title>中国出路，从资源经济向技术经济转型</title>
+        <pubTime>2017-09-26T08:53:59.000Z</pubTime>
+        
+        <tag>经济转型</tag>
+         
+         
+           
+             
+              <breadCrumb title="经济" url="grxiang.ml/categories/%E7%BB%8F%E6%B5%8E/"/>
           
         </display>
     </data>
@@ -37,9 +51,9 @@
         <title>测试2</title>
         <pubTime>2017-09-16T18:20:19.000Z</pubTime>
         
-        <tag>技术</tag>
-         
         <tag>测试</tag>
+         
+        <tag>技术</tag>
          
          
            
